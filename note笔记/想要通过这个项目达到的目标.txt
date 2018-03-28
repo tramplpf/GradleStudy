@@ -1,0 +1,6 @@
+希望通过这个项目达到的目标 
+
+
+
+应该进行的尝试
+1. 将 《Building_and_Testing_with_Gradle》 这本书翻译成中文
